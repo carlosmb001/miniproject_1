@@ -1,0 +1,22 @@
+header {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+body{
+    margin: 0;
+    height: 100vh;
+}
+footer{
+    background-color: red;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: calc(100% - 20px);
+}
+img{
+    width: 300px;
+}
+form{
+    font-size: 20px ;
+}
